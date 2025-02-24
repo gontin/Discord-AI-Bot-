@@ -62,3 +62,4 @@ Um bot do Discord capaz de **ouvir e responder em chamadas de voz**, utilizando 
 ## 🛠️ Contribuição
 Sinta-se livre para abrir issues e enviar PRs para melhorias! 😊
 
+- `readme feito por ia caso tenha falhas desculpinha(vou corrigir assim que possivel)`
