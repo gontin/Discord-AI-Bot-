@@ -82,7 +82,7 @@ class Quantiu(discord.Client):
         elif mensagem.content.startswith("sai"):
             await self.desconectar_voice(mensagem)
             
-        elif mensagem.channel.name in ('buraco-do-quantiu', 'buraco-de-todes', "geral"):
+        elif mensagem.channel.name in ("geral"):
             await self.processar_mensagem(
                 mensagem.content,
                 mensagem.channel,
